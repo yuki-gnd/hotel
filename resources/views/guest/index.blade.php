@@ -1,4 +1,4 @@
-@extends('layouts.hotel');
+@extends('layouts.hotel')
 
 @section('body')
     <table>
